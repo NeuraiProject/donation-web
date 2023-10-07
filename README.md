@@ -14,6 +14,10 @@ The code is not very refined and any suggestions for improvement would be apprec
 
 *Neurai Team*
 
+### Example of this
+
+https://donation.neurai.org
+
 ### Important Files
 ```
 donate.txt
