@@ -20,6 +20,8 @@ document.addEventListener("DOMContentLoaded", function() {
         progressBar.style.width = `${donatedPercentage}%`;
         percentageElem.textContent = `${Math.floor(donatedPercentage)}% - `;
         donatedAmountElem.textContent = `${donatedAmount} XNA`;
+      } else {
+        progressBar.style.width = `100%`; 
       }
     }
   
